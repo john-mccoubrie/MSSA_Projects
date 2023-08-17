@@ -113,7 +113,7 @@
         }
         else
         {
-            Console.WriteLine("Loan Denied, ur poor!");
+            Console.WriteLine("Loan Denied!");
             return false;
         }
     }
