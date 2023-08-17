@@ -30,7 +30,7 @@
    
     static void Main(string[] args)
     {
-        //AskForInput();
+        AskForInput();
         double calcLoanAmount = CalculateLoanAmount();
         Console.WriteLine(calcLoanAmount);
         double monthlyPayment = CalculateMontlyPayment(calcLoanAmount, interestRate, loanTerm);
@@ -106,7 +106,6 @@
     //Step 4: Loan approval/denial
     static bool LoanStatus(double monthlyPayment)
     {
-        //loan is approved if the buyers monthly payment is greater than their monthly income * .25
         if(monthlyPayment <= monthlyIncome * .25)
         {
             Console.WriteLine("Loan Approved!");
