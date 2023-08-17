@@ -1,0 +1,14 @@
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\bin\Debug\net6.0\BuildAMortgageCalculator.exe
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\bin\Debug\net6.0\BuildAMortgageCalculator.deps.json
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\bin\Debug\net6.0\BuildAMortgageCalculator.runtimeconfig.json
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\bin\Debug\net6.0\BuildAMortgageCalculator.dll
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\bin\Debug\net6.0\BuildAMortgageCalculator.pdb
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.AssemblyInfo.cs
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.dll
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\refint\BuildAMortgageCalculator.dll
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.pdb
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.genruntimeconfig.cache
+C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\ref\BuildAMortgageCalculator.dll

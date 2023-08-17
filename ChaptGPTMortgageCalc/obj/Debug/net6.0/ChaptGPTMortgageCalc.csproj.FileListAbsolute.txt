@@ -1,0 +1,14 @@
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\bin\Debug\net6.0\ChaptGPTMortgageCalc.exe
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\bin\Debug\net6.0\ChaptGPTMortgageCalc.deps.json
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\bin\Debug\net6.0\ChaptGPTMortgageCalc.runtimeconfig.json
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\bin\Debug\net6.0\ChaptGPTMortgageCalc.dll
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\bin\Debug\net6.0\ChaptGPTMortgageCalc.pdb
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\obj\Debug\net6.0\ChaptGPTMortgageCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\obj\Debug\net6.0\ChaptGPTMortgageCalc.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\obj\Debug\net6.0\ChaptGPTMortgageCalc.AssemblyInfo.cs
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\obj\Debug\net6.0\ChaptGPTMortgageCalc.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\obj\Debug\net6.0\ChaptGPTMortgageCalc.dll
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\obj\Debug\net6.0\refint\ChaptGPTMortgageCalc.dll
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\obj\Debug\net6.0\ChaptGPTMortgageCalc.pdb
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\obj\Debug\net6.0\ChaptGPTMortgageCalc.genruntimeconfig.cache
+C:\Users\John\source\repos\MSSA_Labs\ChaptGPTMortgageCalc\obj\Debug\net6.0\ref\ChaptGPTMortgageCalc.dll

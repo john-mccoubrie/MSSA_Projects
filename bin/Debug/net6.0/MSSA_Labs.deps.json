@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "MSSA_Labs/1.0.0": {
+        "runtime": {
+          "MSSA_Labs.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MSSA_Labs/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

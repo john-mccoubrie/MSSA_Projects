@@ -1,0 +1,14 @@
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\obj\Debug\net6.0\MSSA_Labs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\obj\Debug\net6.0\MSSA_Labs.AssemblyInfoInputs.cache
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\obj\Debug\net6.0\MSSA_Labs.AssemblyInfo.cs
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\obj\Debug\net6.0\MSSA_Labs.csproj.CoreCompileInputs.cache
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\bin\Debug\net6.0\MSSA_Labs.exe
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\bin\Debug\net6.0\MSSA_Labs.deps.json
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\bin\Debug\net6.0\MSSA_Labs.runtimeconfig.json
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\bin\Debug\net6.0\MSSA_Labs.dll
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\bin\Debug\net6.0\MSSA_Labs.pdb
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\obj\Debug\net6.0\MSSA_Labs.dll
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\obj\Debug\net6.0\refint\MSSA_Labs.dll
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\obj\Debug\net6.0\MSSA_Labs.pdb
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\obj\Debug\net6.0\MSSA_Labs.genruntimeconfig.cache
+C:\Users\John\source\repos\MSSA_Labs\MSSA_Labs\obj\Debug\net6.0\ref\MSSA_Labs.dll
