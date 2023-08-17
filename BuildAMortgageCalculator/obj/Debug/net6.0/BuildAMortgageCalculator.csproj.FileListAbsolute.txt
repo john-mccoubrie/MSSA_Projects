@@ -12,3 +12,17 @@ C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\r
 C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.pdb
 C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.genruntimeconfig.cache
 C:\Users\John\source\repos\MSSA_Labs\BuildAMortgageCalculator\obj\Debug\net6.0\ref\BuildAMortgageCalculator.dll
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\bin\Debug\net6.0\BuildAMortgageCalculator.exe
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\bin\Debug\net6.0\BuildAMortgageCalculator.deps.json
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\bin\Debug\net6.0\BuildAMortgageCalculator.runtimeconfig.json
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\bin\Debug\net6.0\BuildAMortgageCalculator.dll
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\bin\Debug\net6.0\BuildAMortgageCalculator.pdb
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.AssemblyInfoInputs.cache
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.AssemblyInfo.cs
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.csproj.CoreCompileInputs.cache
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.dll
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\obj\Debug\net6.0\refint\BuildAMortgageCalculator.dll
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.pdb
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\obj\Debug\net6.0\BuildAMortgageCalculator.genruntimeconfig.cache
+C:\Users\John\Desktop\MSSA\MSSA_Labs\MSSA_Projects\BuildAMortgageCalculator\obj\Debug\net6.0\ref\BuildAMortgageCalculator.dll

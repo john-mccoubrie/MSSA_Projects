@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\John\\Desktop\\MSSA\\MSSA_Labs\\BuildAMortgageCalculator\\BuildAMortgageCalculator.csproj": {}
+    "C:\\Users\\John\\Desktop\\MSSA\\MSSA_Labs\\MSSA_Projects\\BuildAMortgageCalculator\\BuildAMortgageCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\John\\Desktop\\MSSA\\MSSA_Labs\\BuildAMortgageCalculator\\BuildAMortgageCalculator.csproj": {
+    "C:\\Users\\John\\Desktop\\MSSA\\MSSA_Labs\\MSSA_Projects\\BuildAMortgageCalculator\\BuildAMortgageCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\John\\Desktop\\MSSA\\MSSA_Labs\\BuildAMortgageCalculator\\BuildAMortgageCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\John\\Desktop\\MSSA\\MSSA_Labs\\MSSA_Projects\\BuildAMortgageCalculator\\BuildAMortgageCalculator.csproj",
         "projectName": "BuildAMortgageCalculator",
-        "projectPath": "C:\\Users\\John\\Desktop\\MSSA\\MSSA_Labs\\BuildAMortgageCalculator\\BuildAMortgageCalculator.csproj",
+        "projectPath": "C:\\Users\\John\\Desktop\\MSSA\\MSSA_Labs\\MSSA_Projects\\BuildAMortgageCalculator\\BuildAMortgageCalculator.csproj",
         "packagesPath": "C:\\Users\\John\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\John\\Desktop\\MSSA\\MSSA_Labs\\BuildAMortgageCalculator\\obj\\",
+        "outputPath": "C:\\Users\\John\\Desktop\\MSSA\\MSSA_Labs\\MSSA_Projects\\BuildAMortgageCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

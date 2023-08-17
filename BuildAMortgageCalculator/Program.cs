@@ -21,6 +21,7 @@
     static double monthlyIncome = 6000;
     static int loanTerm = 15;
     */
+
     static double loanInsurance;
     static double propertyTax;
     static double escrow;
@@ -29,7 +30,7 @@
    
     static void Main(string[] args)
     {
-        AskForInput();
+        //AskForInput();
         double calcLoanAmount = CalculateLoanAmount();
         Console.WriteLine(calcLoanAmount);
         double monthlyPayment = CalculateMontlyPayment(calcLoanAmount, interestRate, loanTerm);
@@ -68,22 +69,16 @@
     {
         double originationFee = 0.01 * (purchasePrice - downPayment) + 2500;
         double totalLoanAmount = purchasePrice - downPayment + originationFee;
-
-        //how much money "you have in the house" how much quap you have into the house
         double equity = marketValue - totalLoanAmount;
 
 
         if(equity < (marketValue * .1)) 
         {
-            double equityDeficit = marketValue * 0.1 - equity;
             loanInsurance = (0.01 * totalLoanAmount) / 12;
-            Console.WriteLine("You need to pay loan insurance.");
         }
         else
         {
-            //you do not pay loan insurance
             loanInsurance = 0;
-            Console.WriteLine("you do not need to play loan insurance.");
         }
 
         return totalLoanAmount;
@@ -92,15 +87,14 @@
     //Step 3: Calculate the monthly payment
     static double CalculateMontlyPayment(double localLoanAmount, double interest, int loanLength)
     {
+        double r = (interest / 100) / 12;
+        int n = 12 * loanLength;
+        double monthlyPayment = localLoanAmount * (r) * Math.Pow(1 + r, n) / (Math.Pow(1 + r, n) - 1);
 
-        //include property tax
-        double monthlyPayment = MonthlyPaymentHelper(localLoanAmount, interest, loanLength);
         propertyTax = marketValue * 0.0125 / 12;
         homeOwnersInsurance = marketValue * 0.0075 / 12;
         double monthlyHOA = yearlyHOAFees / 12;
         escrow = propertyTax + monthlyHOA + homeOwnersInsurance;
-      
-
 
         double totalMonthlyPayment = monthlyPayment + loanInsurance + escrow;
 
@@ -108,13 +102,7 @@
         return totalMonthlyPayment;
 
     }
-    static double MonthlyPaymentHelper(double principal, double rate, int term)
-    {
-        double r = (rate / 100) / 12;
-        int n = 12 * term;
-        return principal * (r) * Math.Pow(1 + r, n) / (Math.Pow(1 + r, n) - 1);
-    }
-
+    
     //Step 4: Loan approval/denial
     static bool LoanStatus(double monthlyPayment)
     {
