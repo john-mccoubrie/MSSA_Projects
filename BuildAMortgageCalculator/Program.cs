@@ -106,7 +106,7 @@
     //Step 4: Loan approval/denial
     static bool LoanStatus(double monthlyPayment)
     {
-        if(monthlyPayment <= monthlyIncome * .25)
+        if(monthlyPayment >= monthlyIncome * .25)
         {
             Console.WriteLine("Loan Approved!");
             return true;
