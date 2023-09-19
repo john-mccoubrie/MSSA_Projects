@@ -97,8 +97,6 @@
         escrow = propertyTax + monthlyHOA + homeOwnersInsurance;
 
         double totalMonthlyPayment = monthlyPayment + loanInsurance + escrow;
-
-        Console.WriteLine("Test");
         return totalMonthlyPayment;
 
     }
